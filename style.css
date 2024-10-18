@@ -1,0 +1,37 @@
+body {
+	background-color:darkred;
+}
+h1 {
+	font-size: 60px;
+	color:gold;
+	background-color:black;
+	text-align:center;
+	border: 15px dotted gold;
+	box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.9);
+}
+#hp {
+	color:white;
+	border-color:gold;
+	background-color:black;
+}
+.link {
+color:yellow;
+font-size:28px;
+text-decoration:italic;
+}
+div {
+	background-color:ghostwhite;
+}
+.container {
+	background-color:yellow;
+	width:300px;
+	border:10px solid ghostwhite;
+	margin:auto;
+	text-align:center;
+	border-radius:20px;
+	padding:50px;
+	box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.9);
+}
+#leftlang {
+	text-align:left;
+}
